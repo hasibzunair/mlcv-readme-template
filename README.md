@@ -18,7 +18,7 @@ This code requires Python YOUR_PYTHON_VERSION and CUDA YOUR_CUDA_VERSION. Create
 ```
 conda update conda
 conda env create -f environment.yml
-conda activate maskrec
+conda activate myenv
 ```
 
 ## 2a. Training code
