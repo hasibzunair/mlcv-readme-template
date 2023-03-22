@@ -91,7 +91,7 @@ Add demo details here.
 
 ### Project Notes
 
-**[March 22, 2022]** I started making this template for my own reference. I 
+**[March 22, 2022]** I started making this template for my own reference. 
 
 
 ### Acknowledgements
