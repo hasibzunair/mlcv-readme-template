@@ -1,4 +1,4 @@
-# Name of project goes here
+## Project Acronym
 
 <!---
 HF spaces link
