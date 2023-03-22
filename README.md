@@ -1,7 +1,7 @@
 # Project Acronym
 
 <!---
-HF spaces link
+Hugging Face Spaces Badge. Use if needed.
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hasibzunair/masksup-segmentation-demo)
 -->
 
