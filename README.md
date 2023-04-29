@@ -4,7 +4,7 @@
 
 Hasib Zunair
 
-[[`Paper`](link)] [[`Project`](link)] [[`Demo`](link)] [[`BibTeX`](#5-citation)]
+[[`Paper`](link)] [[`Project`](link)] [[`Demo`](#4-demo)] [[`BibTeX`](#5-citation)]
 
 This is official code for our **BMVC 2022 paper**:<br>
 [Title of Your Paper](Link)
