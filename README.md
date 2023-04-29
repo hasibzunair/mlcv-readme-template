@@ -1,9 +1,10 @@
 # Project Acronym
 
-<!---
-Hugging Face Spaces Badge. Use if needed.
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/hasibzunair/masksup-segmentation-demo)
--->
+Concordia University, Decathlon
+
+Hasib Zunair
+
+[[`Paper`](link)] [[`Project`](link)] [[`Demo`](link)] [[`BibTeX`](#5-citation)]
 
 This is official code for our **BMVC 2022 paper**:<br>
 [Title of Your Paper](Link)
@@ -79,6 +80,8 @@ We provide pretrained models on [GitHub Releases](https://github.com/hasibzunair
 Add demo details here.
 
 ## 5. Citation
+
+If you use X in your research, please use the following BibTeX entry.
 
 ```bibtex
  @inproceedings{zunair2022masked,
