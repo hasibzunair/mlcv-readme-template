@@ -12,6 +12,11 @@ This is official code for our **BMVC 2022 paper**:<br>
  
 ![MaskSup Design](https://github.com/hasibzunair/masksup-segmentation/blob/master/media/pipeline.png?raw=true)
 
+Summarize 3-5 sentences of project here.
+<-- 
+The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. It has been trained on a dataset of 11 million images and 1.1 billion masks, and has strong zero-shot performance on a variety of segmentation tasks.
+!-->
+
 ## 1. Specification of dependencies
 
 This code requires Python YOUR_PYTHON_VERSION and CUDA YOUR_CUDA_VERSION. Create and activate the following conda envrionment.
