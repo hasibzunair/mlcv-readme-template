@@ -1,6 +1,6 @@
 # Project Acronym
 
-Concordia University, Decathlon
+**Concordia University, Decathlon**
 
 Hasib Zunair
 
