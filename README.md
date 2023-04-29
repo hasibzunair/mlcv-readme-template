@@ -10,7 +10,7 @@ This is official code for our **BMVC 2022 paper**:<br>
 [Title of Your Paper](Link)
 <br>
  
-![attention](https://github.com/hasibzunair/masksup-segmentation/blob/master/media/pipeline.png)
+![MaskSup Design](https://github.com/hasibzunair/masksup-segmentation/blob/master/media/pipeline.png?raw=true)
 
 ## 1. Specification of dependencies
 
