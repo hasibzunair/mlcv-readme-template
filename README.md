@@ -101,3 +101,7 @@ If you use X in your research, please use the following BibTeX entry.
 
 ## Acknowledgements
 Give credits to codebases you built on!
+
+
+### Useful resources
+* [Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)
