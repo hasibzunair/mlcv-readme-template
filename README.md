@@ -28,8 +28,8 @@ Or, you can also create a fresh environment and install project requirements by:
 
 ```
 # create fresh env
-conda create -n peekaboo python=3.8     
-conda activate peekaboo
+conda create -n myenv python=3.8     
+conda activate myenv
 # install reqs
 pip install -r requirements.txt
 ```
