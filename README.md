@@ -24,7 +24,7 @@ conda env create -f environment.yml
 conda activate myenv
 ```
 
-Or, you can also create a fresh environment and install project requirements by:
+Or, you can also create a fresh environment and install the project requirements inside that environment by:
 
 ```
 # create fresh env
