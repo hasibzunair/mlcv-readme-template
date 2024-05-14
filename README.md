@@ -24,6 +24,16 @@ conda env create -f environment.yml
 conda activate myenv
 ```
 
+Or, you can also create a fresh environment and install project requirements by:
+
+```
+# create fresh env
+conda create -n peekaboo python=3.8     
+conda activate peekaboo
+# install reqs
+pip install -r requirements.txt
+```
+
 ## 2a. Training code
 
 ### Dataset details
