@@ -18,7 +18,7 @@ Summarize in 3-5 sentences your project here.
 
 This code requires Python YOUR_PYTHON_VERSION and CUDA YOUR_CUDA_VERSION. Clone the project repository, then create and activate the following conda envrionment.
 
-```
+```bash
 # clone repo
 git clone https://github.com/hasibzunair/mlcv-readme-template
 cd peekaboo
@@ -30,7 +30,7 @@ conda activate myenv
 
 Or, you can also create a fresh environment and install the project requirements inside that environment by:
 
-```
+```bash
 # clone repo
 git clone https://github.com/hasibzunair/mlcv-readme-template
 cd peekaboo
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### Dataset details
 We expect Dataset1 and Dataset2 datasets to have the following structure:
-```
+```bash
 datasets/
 |-- Dataset1/
 |---- VOC2007/
@@ -63,24 +63,24 @@ datasets/
 Add any intructions for pre-processing data, to make it ready for training.
 
 ### Dataset1 training
-```
+```bash
 python train.py --dataset Dataset1
 ```
 
 ### Dataset2 training
-```
+```bash
 python train.py --dataset Dataset2
 ```
 
 ## 2b. Evaluation code
 
 ### Dataset1 eval
-```
+```bash
 python eval.py --dataset Dataset1
 ```
 
 ### Dataset2 eval
-```
+```bash
 python eval.py --dataset Dataset2
 ```
 
