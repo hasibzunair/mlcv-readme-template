@@ -16,9 +16,13 @@ Summarize in 3-5 sentences your project here.
 
 ## 1. Specification of dependencies
 
-This code requires Python YOUR_PYTHON_VERSION and CUDA YOUR_CUDA_VERSION. Create and activate the following conda envrionment.
+This code requires Python YOUR_PYTHON_VERSION and CUDA YOUR_CUDA_VERSION. Clone the project repository, then create and activate the following conda envrionment.
 
 ```
+# clone repo
+git clone https://github.com/hasibzunair/mlcv-readme-template
+cd peekaboo
+# create env
 conda update conda
 conda env create -f environment.yml
 conda activate myenv
@@ -27,6 +31,9 @@ conda activate myenv
 Or, you can also create a fresh environment and install the project requirements inside that environment by:
 
 ```
+# clone repo
+git clone https://github.com/hasibzunair/mlcv-readme-template
+cd peekaboo
 # create fresh env
 conda create -n myenv python=3.8     
 conda activate myenv
