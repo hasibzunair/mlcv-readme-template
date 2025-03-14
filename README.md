@@ -37,6 +37,7 @@ cd peekaboo
 # create fresh env
 conda create -n myenv python=3.8     
 conda activate myenv
+conda install pip
 # install reqs
 pip install -r requirements.txt
 ```
