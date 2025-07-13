@@ -14,6 +14,10 @@ This is official code for our **BMVC 2022 paper**:<br>
 
 Summarize in 3-5 sentences your project here.
 
+## Updates
+
+- \[2025.07.13\] Added this section.
+
 ## 1. Specification of dependencies
 
 This code requires Python YOUR_PYTHON_VERSION and CUDA YOUR_CUDA_VERSION. Clone the project repository, then create and activate the following conda envrionment.
