@@ -9,9 +9,9 @@ Fixes # (issue)
 #### Key Things to Review
 <!-- Highlight specific details for reviewers to look closely at. -->
 
-- [ ] Tricky logic or edge cases
-- [ ] New patterns or abstractions
-- [ ] Anything that could impact existing behavior
+- <highlight1>
+- <highlight2>
+- <highlight3>
 
 
 #### Test Plan
