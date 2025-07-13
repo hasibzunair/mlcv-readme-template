@@ -23,9 +23,10 @@ body:
       label: Reproduction steps
       description: Steps to reproduce the behavior.
       value: |
-        1.
-        2.
-        3.
+        1. In this environment...
+        2. With this config...
+        3. Run '...'
+        4. See error...
         ...
       render: bash
     validations:
