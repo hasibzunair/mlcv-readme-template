@@ -1,18 +1,17 @@
-#### Tl;dr (optional)
-<!-- 1-liner if the context of the change is too long. -->
-
 #### Context
 <!-- Include relevant motivation and context on why this change is needed. Link to relevant design docs, discussions or issues. -->
 
-Fixes # (issue).
+Fixes # (issue)
 
 #### This Change
-<!-- Explain what this change does and list specific details to highlight for review. -->
+<!-- Explain what this change does. Describe key logic and flow. -->
 
-**Key Points for Review**  
-- <highlight1>
-- <highlight2>
-- <highlight3>
+#### Key Things to Review
+<!-- Highlight specific details for reviewers to look closely at. -->
+
+- [ ] Tricky logic or edge cases
+- [ ] New patterns or abstractions
+- [ ] Anything that could impact existing behavior
 
 
 #### Test Plan
