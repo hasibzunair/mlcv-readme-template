@@ -2,9 +2,9 @@
 <!-- 1-liner if the context of the change is too long. -->
 
 #### Context
-<!-- Please include relevant motivation and context on why this change is needed. Link to relevant design docs, discussions or issues. -->
+<!-- Include relevant motivation and context on why this change is needed. Link to relevant design docs, discussions or issues. -->
 
-Fixes # (issue)
+Fixes # (issue).
 
 #### This Change
 <!-- Explain what this change does and list specific details to highlight for review. -->
@@ -16,9 +16,10 @@ Fixes # (issue)
 
 
 #### Test Plan
-<!-- Go over how you tested this. Your test plan should be more thorough the riskier the change is. Lint, test, double-check the diff, don’t be that person who breaks main. -->
+<!-- Go over how this change was tested. Test plan should be more thorough the riskier the change is. -->
 
 #### Checklist
+<!--- Lint, test, double-check the diff, don’t be that person who breaks main! --->
 
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas

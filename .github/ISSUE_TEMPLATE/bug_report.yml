@@ -1,5 +1,5 @@
 name: 🐛 Bug Report
-description: Create a report to help us improve
+description: File a bug/issue
 title: "bug: <summary>"
 labels: bug
 
@@ -67,4 +67,4 @@ body:
     id: additional-context
     attributes:
       label: Additional context
-      description: Add any other context about the problem.
+      description: Add any other context about the problem and point to links or references, if any.
