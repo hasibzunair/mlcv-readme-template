@@ -116,15 +116,6 @@ If you use X in your research, please use the following BibTeX entry.
   }
 ```
 
-## Project Notes
-
-<details><summary>Click to view</summary>
-<br>
-
-**[July 12, 2022]** Added this fancy drop down!
- 
-**[March 22, 2022]** I started making this template for my own reference. 
-
 </details>
 
 ## Acknowledgements
